@@ -1,7 +1,7 @@
 # Data Jobs Dashboard w/ Power BI
 
 
-  <img src="/Images/Job_Dashboard1.png" alt="Data Jobs Dashboard GIF">
+  <img src="Images/Job_Dashboard1.png" alt="Data Jobs Dashboard GIF">
 
 
 
